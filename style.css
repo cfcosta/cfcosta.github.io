@@ -53,6 +53,12 @@ hr {
 @media only screen and (max-width: 480px) {
   .col {  margin: 1% 0 1% 0%; }
   .span_1_of_6, .span_2_of_6, .span_3_of_6, .span_4_of_6, .span_5_of_6, .span_6_of_6 { width: 100%; }
+  .span_2_of_6 {
+    text-align: center;
+    float: none !important;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+  }
 }
 
 body {
