@@ -18,7 +18,7 @@ It will not mean that AI is going to go away, quite the opposite.
 
 The other viewpoint also has a catchphrase, namely "you have X months/days/hours to escape the permanent underclass". It's much more insidious, and much darker. You'll never be able to write code professionally again.
 
-Again, the truth is somewhere in the middle. You will not write code again, that's true. What is false is that programming is not going anywhere. You will still write code, just not on your editor. Your value as a human being is not anymore your ability of writing runes on a dark screen with lots of colors.
+Again, the truth is somewhere in the middle. You will not write code manually again, that's true. What is false is that programming is not going anywhere. You will still write code, just not on your editor. Your value as a human being is not anymore your ability of writing runes on a dark screen with lots of colors.
 
 Instead, you will be judged by your ability to communicate, both with humans and machines. The machines will write the code for you, but they will never be able to consider the trade-offs in the way that you do, and they will never be able to read your mind. Machines can, and will always exist to serve the human mind.
 
