@@ -2,3 +2,7 @@ baseURL = 'https://cfcosta.com/'
 languageCode = 'en-us'
 title = 'Semantic Understanding'
 theme = 'bearcub'
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
