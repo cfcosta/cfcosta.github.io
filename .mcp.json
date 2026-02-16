@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "docbert": {
+      "command": "docbert",
+      "args": ["mcp"]
+    }
+  }
+}
